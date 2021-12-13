@@ -1,1 +1,2 @@
 # ADS506-Forecasting-Metal-Oxide-Chemicals-in-an-Italian-City
+In this project, four different metal oxide chemicals were forecasted, which was measured in an unnamed Italian City. Time series analysis techniques were utilized to clean and wrangle the data to get optimal modeling conditions. The forecasts were found by building a SARMA model, which accurately predicted chemical levels in the air over a month span. The data set used for this project can be found at https://archive.ics.uci.edu/ml/datasets/air+quality. 
