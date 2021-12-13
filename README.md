@@ -3,7 +3,7 @@ In this project, four different metal oxide chemicals were forecasted in an unna
 
 Files and thier contents:
 
-**506FinalCode.Rmd** - R Markdown file of code made for project.
+**506FinalCode.Rmd** - R Markdown file of code produced for project.
 
 **Final Team Project Paper** - Team 5.pdf - PDF file of paper writen for project with code attached in appendix.
 
